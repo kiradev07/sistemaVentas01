@@ -67,7 +67,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor beatae id culpa p
 
 <p>
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor beatae id culpa provident maiores nulla, eos distinctio exercitationem mollitia sapiente rem temporibus voluptate ipsa dicta placeat sit molestiae. Dignissimos, ex!
+Lorem dolor sit amet consectetur adipisicing elit. Dolor beatae id culpa provident maiores nulla, eos distinctio exercitationem mollitia sapiente rem temporibus voluptate ipsa dicta placeat sit molestiae. Dignissimos, ex!
 
 </p>
 
